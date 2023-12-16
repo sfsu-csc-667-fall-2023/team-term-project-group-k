@@ -1,1 +1,8 @@
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=12597983)
+# Poker Game Documentation
+
+To run the server, start from the root of the project, cd into the server folder and type npm install, then npm run start
+You should get something similar to this:
+
+Serving static from C:\Users\ghira\Desktop\Backup\team-term-project-group-k\server/../client
+Server started on port 3000
+someone connected, sock ID is: OanIOytp3vG_3PtuAAAB
